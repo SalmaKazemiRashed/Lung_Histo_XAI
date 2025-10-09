@@ -1,9 +1,8 @@
-# Histology_XAI
 # From Pixels to Pathology: Explainable CNNs in Lung Tissue Analysis
 
 This repository accompanies the manuscript **_“From Pixels to Pathology: Explainable CNNs in Lung Tissue Analysis.”_**
 
-This work is a continuation of our previous manuscript (ref), focusing on:
+This work is a continuation of our previous manuscript [ref](https://www.biorxiv.org/content/10.1101/2023.05.12.540340v1.abstract), focusing on:
 
 - **Numerical analysis** of deep learning models for lung tissue classification  
 - **Explainable AI (XAI) algorithms** to connect pathology-driven features with model-driven representations  
