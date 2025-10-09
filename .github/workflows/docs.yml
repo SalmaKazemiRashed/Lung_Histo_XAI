@@ -24,7 +24,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-
+      - name: Debug current directory
+        run: |
+          pwd
+          ls -R
       - name: Build HTML documentation
         working-directory: docs
         run: |
