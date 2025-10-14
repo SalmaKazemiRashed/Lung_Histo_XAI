@@ -4,4 +4,4 @@ The data is lung biopsy sections stained with H&E stain from healthy control pig
 
 
 ### Exploratory Data Analysis (EDA)
-EDA scripts  involve tasks such as statistical analysis, cleaning image data, attaching labels to the images, dividing them into smaller tiles, and applying data augmentation techniques. These processes, along with handling different labels, build on prior [work](https://www.biorxiv.org/content/10.1101/2023.05.12.540340v1.abstract)  and are shared at [Here](https://github.com/Aitslab/lunghisto). 
+EDA scripts  involve tasks such as statistical analysis, cleaning image data, attaching labels to the images, dividing them into smaller tiles, and applying data augmentation techniques. These processes, along with handling different labels, build on prior [work](https://www.biorxiv.org/content/10.1101/2023.05.12.540340v1.abstract)  and are shared [Here](https://github.com/Aitslab/lunghisto). 
