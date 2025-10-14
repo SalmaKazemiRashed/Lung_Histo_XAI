@@ -1,4 +1,4 @@
-![](../docs/_static/Summary.png)
+![](../docs/_static/unsup.png)
 
 # Discovering Structure in Latent Representations via Unsupervised Clustering
 The latent representations of the tiles, extracted from the final layer of the three-class classifier, were processed using unsupervised dimensionality reduction algorithms such as UMAP and t-SNE. The first two components were then visualized in three ways:
