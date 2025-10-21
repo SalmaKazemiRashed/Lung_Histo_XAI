@@ -49,3 +49,20 @@ The [first](./GradCAM/Visualize_Grad_Cam_initial_relu.ipynb) file illustrates th
 ![](docs/_static/shap.png)
 
 # SHAP (SHapley Additive exPlanations) 
+
+
+
+
+
+
+![](docs/_static/Deeper_architecture.png)
+
+# Deeper architecture 
+
+
+
+
+![](docs/_static/Attention.png)
+
+# Attention 
+
